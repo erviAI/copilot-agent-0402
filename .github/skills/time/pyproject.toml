@@ -1,0 +1,12 @@
+[project]
+name = "tell-time"
+version = "0.1.0"
+description = "Time telling script - displays current time based on user's location"
+requires-python = ">=3.11"
+dependencies = [
+    "pandas",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
