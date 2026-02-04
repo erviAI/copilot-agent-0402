@@ -17,7 +17,7 @@ git config --get remote.origin.url
 
 2. Ask the user if they would like to create GitHub issues for the tasks outlined in the plan, ask if there should be one issue per task or if some tasks should be grouped together into a single issue.
 
-3. Then use the GitHub MCP server to create a new issue(s) in the repository that is representative of the Git remote.
+3. Then use the GitHub MCP server to create a new issue(s) in the repository that is representative of the Git remote. Always prfix the issue title with "[github-handle] ".
 
 ## Additional instructions
 IF THE USER ASK FOR A VISUALIZATION, follow the instructions in <visualize> and add diagram to issue as well.
